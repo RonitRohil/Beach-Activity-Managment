@@ -1,0 +1,24 @@
+
+
+
+body {
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+  }
+
+  input {
+    height: 25px;
+    border-width: 1px;
+    border-color: black;
+    background-color: azure;
+    font-size: smaller;
+
+
+  }
